@@ -89,10 +89,10 @@
 
 ###暂未识别，需要训练，在研究
 
-<img src="./samples/1.png" height="320" align="absmiddle"/>
+<!--<img src="./samples/1.png" height="320" align="absmiddle"/>
 <img src="./samples/2.png" height="320" align="absmiddle"/>
 <img src="./samples/3.png" height="320" align="absmiddle"/>
-<img src="./samples/4.png" height="320" align="absmiddle"/>
+<img src="./samples/4.png" height="320" align="absmiddle"/>-->
 
 
 欢迎提交新的验证码类型
